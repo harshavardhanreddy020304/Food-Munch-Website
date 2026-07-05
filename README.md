@@ -100,37 +100,6 @@ Right Click → Open with Live Server
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome to improve this project.
-
-To contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes.
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push the branch.
-
-```bash
-git push origin feature-name
-```
-
-5. Submit a Pull Request for review.
-
-Please ensure your code is clean, well-documented, and follows standard development practices.
-
----
-
 ## ⭐ Support
 
 If you found this project useful, consider giving it a **⭐ Star** on GitHub. Your support helps encourage future improvements and open-source contributions.
